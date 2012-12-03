@@ -16,7 +16,7 @@ cl-windchime will use the following:
 * `cl-routes`_ or `cl-poise`_ (not implemented yet) for routing
 
 * and `Hunchentoot`_ as a dev server and production server fronted by
-`lighttpd`_.
+  `lighttpd`_.
 
 .. Links:
 .. _bottle: http://bottlepy.org/
